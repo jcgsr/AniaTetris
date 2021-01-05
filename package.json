@@ -1,0 +1,28 @@
+{
+  "name": "aniatetris",
+  "version": "1.0.0",
+  "description": "Ania's tutorial on Tetris Game",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcgsr/AniaTetris.git"
+  },
+  "keywords": [
+    "Ania",
+    "Tetris",
+    "Game",
+    "JS"
+  ],
+  "author": "jovane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcgsr/AniaTetris/issues"
+  },
+  "homepage": "https://github.com/jcgsr/AniaTetris#readme",
+  "devDependencies": {
+    "eslint": "^7.17.0"
+  }
+}
